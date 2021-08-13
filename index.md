@@ -1,7 +1,6 @@
-# Sec Cake 的博客
-一名合格的后端开发工程师
+# SecCake
 
-## Welcome to GitHub Pages
+## Test Header
 
 You can use the [editor on GitHub](https://github.com/secake/secake.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
